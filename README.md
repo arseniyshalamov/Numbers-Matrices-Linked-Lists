@@ -1,9 +1,7 @@
-## 📄 README для **Numbers-Matrices-Linked-Lists**
-```markdown
 # Numbers, Matrices & Linked Lists
 
 ## 📌 Description
-C++ program implementing algorithms for:
+C program implementing algorithms for:
 - **Prime-digit-sum** number checking
 - **Neighbor maximum** search in matrices
 - **Triad** analysis in linked lists
@@ -17,4 +15,4 @@ C++ program implementing algorithms for:
 ## 🚀 How to Run
 1. Compile the program:
    ```bash
-   g++ main.cpp -o algorithms
+   gcc main.c -o algorithms
