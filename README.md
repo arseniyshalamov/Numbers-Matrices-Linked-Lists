@@ -1,18 +1,20 @@
-# Strings & Files Toolkit
+## 📄 README для **Numbers-Matrices-Linked-Lists**
+```markdown
+# Numbers, Matrices & Linked Lists
 
 ## 📌 Description
-C program for working with strings and files, including:
-- **Splitting files** into parts
-- **Frequency analysis** of file contents
-- **Decoding** based on character frequency
+C++ program implementing algorithms for:
+- **Prime-digit-sum** number checking
+- **Neighbor maximum** search in matrices
+- **Triad** analysis in linked lists
 
 ## 🛠 Features
-- String processing
-- File input/output
-- Character frequency counting
-- Decoding text based on frequency
+- Number theory algorithms
+- Matrix traversal and processing
+- Linked list manipulation
+- Custom logic for triads and neighbor checks
 
 ## 🚀 How to Run
 1. Compile the program:
    ```bash
-   gcc main.c -o strings_toolkit
+   g++ main.cpp -o algorithms
